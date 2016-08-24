@@ -12,4 +12,8 @@ color:
     - '#E90B18'
 layout_spectrum: 0.5777447121217847
 name: Liberty Fitting Service Ltd
+navigation:
+  - name: Dundee Kitchens
+    url: 'http://www.libertyfittingservice.co.uk/'
+    type: external
 description: Excellence as Standard
