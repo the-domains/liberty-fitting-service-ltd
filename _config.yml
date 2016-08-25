@@ -1,19 +1,31 @@
-typography_spectrum: 0.9908090785611421
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.26400836650282145
-  lightness: 0.329042307799682
   saturation: 0.6733508121687919
-  rhythmicContrast: 0.4079033671878278
+  brandStrength: 0.2640083665028214
+  lightness: 0.329042307799682
   brandColors:
     - '#F8F7F3'
-    - '#F750C4'
-    - '#03AF95'
-    - '#033131'
-    - '#E90B18'
-layout_spectrum: 0.5777447121217847
-name: Liberty Fitting Service Ltd
+    - '#F650C4'
+    - '#04AF95'
+    - '#1A1536'
+    - '#DF1413'
+  rhythmicContrast: 0.4079033671878278
+typography_spectrum: 0.9908090785611421
+description: Excellence as Standard
 navigation:
   - name: Dundee Kitchens
     url: 'http://www.libertyfittingservice.co.uk/'
     type: external
-description: Excellence as Standard
+layout_spectrum: 0.5777447121217847
+name: Liberty Fitting Service Ltd
